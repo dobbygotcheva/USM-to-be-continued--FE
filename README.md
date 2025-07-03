@@ -41,4 +41,4 @@ See `docs/QUICK_START.md` and `docs/SETUP.md` for full instructions.
 - Modern UI with Material-UI
 
 ## License
-MIT (or specify your license) 
+Open Source
