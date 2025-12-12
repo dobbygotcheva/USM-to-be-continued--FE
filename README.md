@@ -39,6 +39,3 @@ See `docs/QUICK_START.md` and `docs/SETUP.md` for full instructions.
 - Course, department, and user CRUD
 - Enrollment, statistics, dashboards
 - Modern UI with Material-UI
-
-## License
-Open Source
